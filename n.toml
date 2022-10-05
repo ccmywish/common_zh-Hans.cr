@@ -1,0 +1,7 @@
+[nist]
+name = "NIST"
+desc = "美国国家标准与技术研究院"
+
+[nasa]
+name = "NASA"
+desc = "美国国家航空航天局"
