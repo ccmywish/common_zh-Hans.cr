@@ -1,3 +1,7 @@
 [easa]
 name = "EASA"
 desc = "欧洲航空安全局"
+
+[eia]
+name = "EIA"
+desc = "美国电子工业协会"
