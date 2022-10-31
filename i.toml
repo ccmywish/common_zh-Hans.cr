@@ -13,3 +13,7 @@ desc = "国际互联网工程任务组"
 [iso]
 name = "ISO"
 desc = "国际标准化组织"
+
+[itu]
+name = "ITU"
+desc = "国际电信联盟，简称国际电联"
