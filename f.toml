@@ -1,3 +1,7 @@
 [faa]
 name = "FAA"
 desc = "美国联邦航空管理局"
+
+[fips]
+name = "FIPS"
+desc = "联邦信息处理标准"

@@ -1,3 +1,7 @@
 [cnnic]
 name = "CNNIC"
 desc = "中国互联网络信息中心"
+
+[cen]
+name = "CEN"
+desc = "欧洲标准化委员会"
